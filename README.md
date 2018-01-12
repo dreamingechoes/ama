@@ -3,7 +3,7 @@
 A repository to ask [@dreamingechoes](https://twitter.com/dreeamingechoes) anything.
 
 I'm a Software Developer from the north of Spain, interested in all kind of technologies. 
-I have been working as software development since 2005, starting with desktop application developments 
+I have been working as a software developer since 2005, starting with desktop application developments 
 to quickly focus on my true passion: web development.
 
 With years of experience developing projects of all kinds with Ruby and Rails, I am currently focused
@@ -29,8 +29,7 @@ filter on this repository to browse questions I've answered in the past.
 
 ### Twitter
 
-If you have something quick and easy, just ping me on Twitter. I'm [@dreamingechoes](https://twitter.com/dreamingechoes) on
-Twitter.
+If you have something quick and easy, just ping me on Twitter. I'm [@dreamingechoes](https://twitter.com/dreamingechoes).
 
 ----------------------------
 
